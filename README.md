@@ -1,0 +1,2 @@
+# LibrarySystemAssessment
+This is the code I produced during the 1 hour and 30 minute assessment for Programming (Semester 1). The Library System assessment was divided up into three parts, requiring different levels of competence for each stage. Part 01 focused on testing, Part 02 focused of Debugging and Validation and Part 03 was focused on creating new functionality using methods, array lists, arrays, loops and whatever we thought was necessary.
